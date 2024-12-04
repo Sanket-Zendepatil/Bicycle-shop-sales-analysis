@@ -1,8 +1,9 @@
 ## Bicycle Shop Sales Analysis with Excel 
 
-# Link of Project : 
+# Link of Project : https://github.com/Sanket-Zendepatil/Bicycle-shop-sales-analysis/blob/main/Bicycle%20shop%20Sales%20Data%20.xlsx
 
 # Report view in image: 
+
 
 
 
